@@ -1,4 +1,8 @@
-# QuarkIndustryProjectOne
-Inventory Management 
-The static Connections for the login and signup are made, after clicking the "Register a new member" you'll get redirected
-just to see the Dashboard you'll have to access it trough the url directly "index.html" is the file name for Dashboard
+# BookGuardian - Manage Books Website
+– Tools & technologies used: HTML, CSS, PHP, JS , MySql
+– Developed a machine learning system to detect deepfake images by analyzing facial features, lip sync, and unusual
+movements.
+– Constructed a visual heatmap to identify tampered areas in deepfake images, enhancing the understanding of
+deepfake detection findings.
+– Conducted victim analysis to understand the impact of deepfake images on victims, providing valuable insights
+for the development of prevention and support strategies
